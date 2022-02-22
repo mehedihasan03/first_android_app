@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">firstApplication</string>
+
+    <string-array name="planets_array">
+        <item>rakib</item>
+        <item>mehedi</item>
+        <item>sakib</item>
+    </string-array>
 </resources>
