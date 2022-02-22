@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                     System.out.println("Password : " + password.getText());
                     int genId = gender.getCheckedRadioButtonId();
                     selectedGen = findViewById(genId);
-                    System.out.println(selectedGen.getText());
+                    System.out.println("Gender : " + selectedGen.getText());
                 }
         );
     }
